@@ -23,3 +23,8 @@
 WideTrax allows you to manipulate **SWOT data** both locally 🖥️ and from an **S3 endpoint** ☁️.
 
 See the full [documentation](https://widetrax.readthedocs.io/en/latest/)!
+
+## Contributing and Issues
+
+Contributions are welcome.
+If you encounter a bug or want to contribute, please open an issue [here](https://github.com/IGE-OPERA/widetrax/issues).
